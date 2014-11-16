@@ -1,3 +1,3 @@
 # This is index.md
 
-Link: [Q|QQ];
+Link: [Lnk](../README.md);
